@@ -1,0 +1,8 @@
+MAN_UTD = 'manchester united owners OR glazers out OR united owners #glazersout -filter:retweets'
+CHELSEA = 'chelsea owners OR abramovich -filter:retweets'
+MAN_CITY = 'manchester city owners -filter:retweets'
+LIVERPOOL = 'liverpool owners OR FSG liverpool -filter:retweets'
+ARSENAL = 'Kroenke OR #kroenkeout -filter:retweets'
+SPURS = 'spurs owners OR daniel levy -filter:retweets'
+EVERTON = 'everton owners -filter:retweets'
+LEICESTER = 'leicester owners OR khun vichai OR skypower OR khun top filter:retweets'
